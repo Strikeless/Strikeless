@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm some random guy on the internet who might exist in real life too.
+
+[![Strikeless' github stats](https://github-readme-stats.vercel.app/api?username=Strikeless&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Im turning coffee to...
+- Java bytecode related things
+- Modifications to games
+- The untold
+
+## Unarguable facts
+- C# is Java with weird conventions
+- If it's on Stackoverflow you can yoink it
