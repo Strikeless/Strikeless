@@ -1,29 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Strikeless/Strikeless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm some random guy on the internet who might exist in real life too.
+I am a sparetime developer from Finland
 
 [![Strikeless' github stats](https://github-readme-stats.vercel.app/api?username=Strikeless&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Im turning coffee to...
-- Java bytecode related things
-- Modifications to games
-- The untold
+## Languages im familiar with
+- Java
+- C#
+- Rust (Currently learning)
+- Basic HTML & CSS & JS
+- Basic Python
+- Basic C++
 
-## Unarguable facts
-- C# is Java with weird conventions
-- If it's on Stackoverflow you can yoink it
+Typically using Java or Rust
+
+## Known for:
+- Ability to skid
+- Not being known
+
+## Some things i've worked on:
+- JVM bytecode manipulation (mainly obfuscation)
+- Multiple game modifications
+
+##### (oh also, i use arch btw)
