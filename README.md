@@ -14,12 +14,14 @@ I am a sparetime developer from Finland
 
 Typically using Java or Rust
 
+## Some things i've worked on:
+- JVM bytecode manipulation (mainly obfuscation)
+- JVM software reverse engineering
+- Countless video game cheats
+- Minecraft anticheats
+
 ## Known for:
 - Ability to skid
 - Not being known
-
-## Some things i've worked on:
-- JVM bytecode manipulation (mainly obfuscation)
-- Multiple game modifications
 
 ##### (oh also, i use arch btw)
