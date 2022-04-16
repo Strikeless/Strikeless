@@ -4,7 +4,7 @@ I am a sparetime developer from Finland
 
 [![Strikeless' github stats](https://github-readme-stats.vercel.app/api?username=Strikeless&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages im familiar with
+## Languages im familiar with:
 - Java
 - C#
 - Rust (Currently learning)
