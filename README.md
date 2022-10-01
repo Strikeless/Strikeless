@@ -7,17 +7,16 @@ I am a sparetime developer from Finland
 ## Languages im familiar with:
 - Java
 - C#
-- Rust (Currently learning)
+- Rust (Somewhat, currently learning)
 - Basic HTML & CSS & JS
-- Basic Python
-- Basic C++
+- Basic C/C++
 
-Typically using Java or Rust
+Typically using Rust
 
 ## Some things i've worked on:
 - JVM bytecode manipulation (mainly obfuscation)
 - JVM software reverse engineering
-- Countless video game cheats
+- Several video game cheats
 - Minecraft anticheats
 
 ## Known for:
