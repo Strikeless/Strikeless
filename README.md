@@ -7,9 +7,9 @@ I am a sparetime developer from Finland
 ## Languages im familiar with:
 - Java
 - C#
-- Rust (Currently learning)
+- Rust
+- C
 - Basic HTML & CSS & JS
-- Basic C/C++
 
 Typically using Rust
 
