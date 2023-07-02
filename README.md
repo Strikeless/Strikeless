@@ -9,6 +9,7 @@ I am a sparetime developer from Finland
 - C#
 - Rust
 - C
+- Bit of Go
 - Basic HTML & CSS & JS
 
 Typically using Rust
