@@ -1,20 +1,20 @@
-# Hi there 👋
-
-I am a sparetime developer from Finland
+# Hello
+I'm an occasional sparetime developer from Finland.
 
 ## Languages im familiar with:
+- Rust
 - Java
 - C#
-- Rust
-- Bit of C
+- Essentials of C
 - Bit of Go
 - Basic HTML & CSS & JS
 
 Typically using Rust
 
 ## A few notable things i've worked on:
+- Few simple homebrew microprocessor designs
 - JVM bytecode manipulation (incl. obfuscation) and reverse engineering
-- Video game cheats and Minecraft anticheats
+- Internal video game cheats and Minecraft anticheats
 - Toy-language compilers in Rust
 
 ## Notably interested in:
