@@ -5,6 +5,7 @@ I'm an occasional sparetime developer from Finland.
 - Rust
 - Java
 - C#
+- Python
 - Essentials of C
 - Bit of Go
 - Basic HTML & CSS & JS
@@ -15,9 +16,9 @@ Typically using Rust
 - Few simple homebrew microprocessor designs
 - JVM bytecode manipulation (incl. obfuscation) and reverse engineering
 - Internal video game cheats and Minecraft anticheats
-- Toy-language compilers in Rust
+- Tiny toy-language compilers in Rust
 
 ## Notably interested in:
 - Networking and security
-- Compiler development
+- Low level functionality of computers
 - Game development
